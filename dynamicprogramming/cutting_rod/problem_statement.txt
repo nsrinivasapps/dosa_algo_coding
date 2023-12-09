@@ -1,0 +1,2 @@
+Given an iron rod of a certain length and price of selling rods of different lengths in the market,
+how should we cut the rod so that the profit is maximized.
